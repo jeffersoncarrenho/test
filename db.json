@@ -10,23 +10,5 @@
         "categ": "Esporte",
         "valor": "120000.00",
         "modelo": "Camaro"
-    },
-    {
-        "id": "2",
-        "categ": "SUV",
-        "valor": "450000.00",
-        "modelo": "HRV"
-    },
-    {
-        "id": "3",
-        "categ": "SUV",
-        "valor": "150000.00",
-        "modelo": "T-Cross"
-    },
-    {
-        "id": "4",
-        "categ": "Utilitario",
-        "valor": "500000.00",
-        "modelo": "Hillux"
     }
 ]
