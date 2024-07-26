@@ -1,11 +1,56 @@
 [
-    {"id":"0", "categ":"Esporte","valor":"120000.00", "modelo":"Golf GTI"},
-    {"id":"1", "categ":"Esporte","valor":"120000.00", "modelo":"Camaro"},
-    {"id":"2", "categ":"SUV","valor":"450000.00", "modelo":"HRV"},
-    {"id":"3", "categ":"SUV","valor":"150000.00", "modelo":"T-Cross"},
-    {"id":"4", "categ":"Utilitario","valor":"500000.00", "modelo":"Hillux"},
-    {"id":"5", "categ":"Utilitario","valor":"150000.00", "modelo":"Ranger"}
-    {"id":"6", "categ":"Esportivo","valor":"150000.00", "modelo":"Ferrai"}
-    {"id":"7", "categ":"Classico","valor":"150000.00", "modelo":"Fusca"}
-    {"id":"8", "categ":"Hatch","valor":"150000.00", "modelo":"Fiesta"}
+    {
+        "id": "0",
+        "categ": "Esporte",
+        "valor": "120000.00",
+        "modelo": "Golf GTI"
+    },
+    {
+        "id": "1",
+        "categ": "Esporte",
+        "valor": "120000.00",
+        "modelo": "Camaro"
+    },
+    {
+        "id": "2",
+        "categ": "SUV",
+        "valor": "450000.00",
+        "modelo": "HRV"
+    },
+    {
+        "id": "3",
+        "categ": "SUV",
+        "valor": "150000.00",
+        "modelo": "T-Cross"
+    },
+    {
+        "id": "4",
+        "categ": "Utilitario",
+        "valor": "500000.00",
+        "modelo": "Hillux"
+    },
+    {
+        "id": "5",
+        "categ": "Utilitario",
+        "valor": "150000.00",
+        "modelo": "Ranger"
+    },
+    {
+        "id": "6",
+        "categ": "Esportivo",
+        "valor": "150000.00",
+        "modelo": "Ferrai"
+    },
+    {
+        "id": "7",
+        "categ": "Classico",
+        "valor": "150000.00",
+        "modelo": "Fusca"
+    },
+    {
+        "id": "8",
+        "categ": "Hatch",
+        "valor": "150000.00",
+        "modelo": "Fiesta"
+    }
 ]
