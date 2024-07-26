@@ -28,11 +28,5 @@
         "categ": "Utilitario",
         "valor": "500000.00",
         "modelo": "Hillux"
-    },
-    {
-        "id": "5",
-        "categ": "Utilitario",
-        "valor": "150000.00",
-        "modelo": "Ranger"
     }
 ]
